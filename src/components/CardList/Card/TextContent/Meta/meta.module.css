@@ -1,0 +1,13 @@
+.meta {
+  margin-bottom: 10px;
+}
+
+.name {
+  color: coral;
+  text-transform: capitalize;
+  margin-right: 10px;
+}
+
+.date {
+  color: rgba(0, 0, 0, 0.4);
+}

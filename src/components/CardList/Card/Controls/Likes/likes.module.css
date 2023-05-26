@@ -1,0 +1,8 @@
+.counter {
+  color: teal;
+  margin: 0px 10px;
+}
+
+.down {
+  transform: rotate(180deg);
+}

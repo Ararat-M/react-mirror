@@ -1,0 +1,5 @@
+.threadTitle {
+  margin-top: 40px;
+  padding-left: var(--mainPaddingL);
+  padding-right: var(--mainPaddingR);
+}

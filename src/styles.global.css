@@ -1,0 +1,23 @@
+:root {
+  --mainPaddingR: 20px;
+  --mainPaddingL: 20px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  background-color: #f4f4f4;
+  font-size: 14px;
+  line-height: 16px;
+}
+
+button {
+  background: none;
+  border: none;
+  padding: 0px;
+  margin: 0px;
+}

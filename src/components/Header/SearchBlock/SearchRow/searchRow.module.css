@@ -1,0 +1,14 @@
+.searchRowInput {
+  border: none;
+  border-radius: 15px;
+  background-color: #f4f4f4;
+  padding: 10px 8px;
+}
+
+.searchRowInput:focus::placeholder {
+  opacity: 0;
+}
+
+.searchRowInput::placeholder {
+  transition: opacity 0.2s ease-out;
+}
