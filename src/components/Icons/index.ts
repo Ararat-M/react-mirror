@@ -1,0 +1,5 @@
+export * from "./VectorIcon"
+export * from "./CommentsIcon"
+export * from "./EllipsisIcon"
+export * from "./EyeSlashIcon"
+export * from "./WarningIcon"

@@ -3,6 +3,7 @@ import style from "./card.module.css"
 import { TextContent } from './TextContent'
 import { Preview } from './Preview'
 import { Controls } from './Controls'
+import { Menu } from './Menu'
 
 export function Card() {
   return (
@@ -10,6 +11,7 @@ export function Card() {
       <TextContent/>
       <Preview/>
       <Controls/>
+      <Menu/>
     </div>
   )
 }

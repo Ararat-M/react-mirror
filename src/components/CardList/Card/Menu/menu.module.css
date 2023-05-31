@@ -1,0 +1,33 @@
+.menu {
+  position: absolute;
+  top: 0;
+  left: calc(100% - 24px);
+}
+
+.menuButton {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  background-color: rgb(201, 201, 201)
+}
+
+.list {
+  position: absolute;
+  right: 0px;
+  top: 10px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+  border-radius: 3px;
+  background-color: white;
+  white-space: nowrap;
+}
+
+.closeBtn {
+  width: 100%;
+  font-size: 14px;
+  padding: 10px 15px;
+  text-align: center;
+  background-color: rgb(201, 201, 201);
+}
