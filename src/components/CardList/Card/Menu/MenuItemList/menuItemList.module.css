@@ -1,13 +1,11 @@
-li {
-  padding: 10px 15px;
-  font-size: 14px;
-}
-
 .itemBtn {
+  margin: 2px 0px;
+  padding: 8px 13px;
   display: flex;
   align-items: center;
   width: 100%;
   text-align: start;
+  font-size: 14px;
 }
 
 .btnContent {
