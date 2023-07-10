@@ -5,12 +5,11 @@ import { Layot } from "./components/Layout";
 import { Content } from "./components/Content";
 
 export function App() {
+  
   return (
-    <div className=".container">
       <Layot>
         <Header/>
         <Content/>
       </Layot>
-    </div>
   )
 }
