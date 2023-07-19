@@ -5,4 +5,4 @@
 - [TypeScript](https://www.typescriptlang.org/)
 - [React](https://react.dev/)
 ## Цели
-Создать зеркало реддита, реализовать авторизацию по токену.
+Создать зеркало реддита.
