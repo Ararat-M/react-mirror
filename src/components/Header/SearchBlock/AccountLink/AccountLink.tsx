@@ -5,7 +5,7 @@ import { AnonymIcon } from '../../../Icons/AnonymIcon';
 
 export function AccountLink() {
   const [userData] = useUserData();
-  console.log(Boolean(userData));
+  
   return (
     <div>
       <a 
